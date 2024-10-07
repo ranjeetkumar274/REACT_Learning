@@ -1,8 +1,7 @@
 function Todoitem2(){
-    return (<div className="container text-center">
+    return (<div>
 
-
-        <div class="row">
+        <div class="row kg-row">
           <div class="col-6">
             Go to College
           </div>
@@ -10,7 +9,7 @@ function Todoitem2(){
             6/10/2023
           </div>
           <div class="col-2">
-          <button type="button" class="btn btn-danger">Delete</button>
+          <button type="button" class="btn btn-danger kg-button">Delete</button>
           </div>
         </div>
       

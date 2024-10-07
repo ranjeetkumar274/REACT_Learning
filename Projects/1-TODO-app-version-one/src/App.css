@@ -1,0 +1,27 @@
+
+.app-name {
+    font-weight: 750;
+}
+
+input{
+    width: 100%;
+}
+
+
+.todo-container{
+    padding: 0 40px;
+
+}
+.items-container{
+    padding-top: 20px;
+    text-align: left;
+    
+}
+
+.kg-row{
+    margin: 10px 5px;
+}
+
+.kg-button{
+    min-width: 80px;
+}
