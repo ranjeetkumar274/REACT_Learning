@@ -1,11 +1,11 @@
 
 
 .list-group-item.kg-item{
-  background-color: rebeccapurple;
+  background-color: rgb(169, 104, 235);
+  opacity: 0.7;
 }
 
 .food-heading{
-  background-color: aquamarine;
   text-align: center;
   font-weight: 800;
 }

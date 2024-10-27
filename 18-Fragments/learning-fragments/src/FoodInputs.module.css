@@ -1,0 +1,8 @@
+.foodinput{
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid orange;
+    color: rgb(170, 71, 216);
+}
