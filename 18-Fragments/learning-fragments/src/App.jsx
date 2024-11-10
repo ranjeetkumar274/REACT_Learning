@@ -22,12 +22,13 @@ function App() {
 
 
     {/* <Container>
-      <p>healthy food</p>
+    <h1 className="food-heading">Healthy Food</h1>
+      <ErrorMsg items={foodItems}></ErrorMsg> 
+      <FoodInputs></FoodInputs>
+      <FoodItems items ={foodItems}></FoodItems>
     </Container> */}
 
-
     </>
-   
   )
 }
 

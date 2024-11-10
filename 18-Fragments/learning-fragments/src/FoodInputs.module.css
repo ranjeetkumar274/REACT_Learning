@@ -3,6 +3,8 @@
     padding: 5px;
     margin: 10px 0;
     border-radius: 5px;
-    border: 1px solid orange;
+    border: 1px solid rgb(191, 0, 255);
     color: rgb(170, 71, 216);
+    border: none;
+    background-color: rgb(166, 166, 166);
 }

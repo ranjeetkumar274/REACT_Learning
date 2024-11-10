@@ -3,7 +3,7 @@ import styles from "./Item.module.css"
 let Item = ({foodItem}) => {
 
     const handleBuyButtonClicked = (foodItem) => {
-        alert(`Item being Bought ${foodItem}.`)
+        alert(`Item being Bought ${foodItem}`)
     };
     
 
@@ -12,8 +12,7 @@ let Item = ({foodItem}) => {
 
     <button className={`btn btn-success ${styles.button}`}
     onClick={() =>
-        handleBuyButtonClicked(foodItem)
-    }
+        handleBuyButtonClicked(foodItem)}
     >Buy</button>
     
      </li>
